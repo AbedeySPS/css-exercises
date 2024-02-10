@@ -1,0 +1,19 @@
+.cooleklasse{
+    background-color: lightcoral;
+    font-family: verdana, DejaVu sans, sans-serif;
+}
+
+.andereKlasse{
+    font-size: 24px;;
+}
+
+#secondRow{
+    color: blue;
+    font-size: 36px;
+}
+
+#forthRow{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
